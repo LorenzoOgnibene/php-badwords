@@ -7,7 +7,7 @@
     <title>BedWords</title>
 </head>
 <body>
-    <form action="./test-db/" method="GET">
+    <form action="./test-db/index.php" method="GET">
         <textarea name="paragraph" id="" cols="30" rows="10"></textarea>
         <input type="text" name="bedWord" id="">
         <input type="submit" value="invia">
